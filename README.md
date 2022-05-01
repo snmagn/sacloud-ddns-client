@@ -1,0 +1,2 @@
+# sacloud-ddns-client
+さくらのクラウドのDNSを利用したDDNSサービスを実現するためのコンテナイメージおよびhelm chart
